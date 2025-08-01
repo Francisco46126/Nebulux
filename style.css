@@ -413,8 +413,8 @@ header nav a{
 }
 @media screen and (max-width: 767px){
     /* mobile */
-    height: 100vh;
-    max-height: 100dvh;
+    height: 90vh;
+    max-height: 90dvh;
     .carousel{
          height: 100vh;
         max-height: 100dvh;
