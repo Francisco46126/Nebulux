@@ -409,7 +409,8 @@ header nav a{
 @media screen and (max-width: 767px){
     /* mobile */
     .carousel{
-        height: 600px;
+         height: 100vh;
+        max-height: 100dvh;
     }
     .carousel .list .item{
         width: 100%;
