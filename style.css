@@ -342,36 +342,16 @@ header nav a{
     left: 50%;
     transform: translateX(-50%);
 }
-/*#prev,
+#prev,
 #next{
-    width: 40px;
-    height: 40px;
+    width: 60px;
+    height: 60px;
     border-radius: 50%;
     font-family: monospace;
     border: 1px solid #5555;
     font-size: large;
     bottom: 20%;
     left: 10%;
-}*/
-#prev,
-#next {
-    width: 60px;
-    height: 60px;
-    font-size: 2rem;
-    border-radius: 50%;
-    font-family: monospace;
-    border: 2px solid #aa28a4;
-    background-color: white;
-    color: #aa28a4;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-    transition: all 0.3s ease;
-}
-
-#prev:hover,
-#next:hover {
-    background-color: #aa28a4;
-    color: white;
-    transform: scale(1.1);
 }
 #next{
     left: unset;
