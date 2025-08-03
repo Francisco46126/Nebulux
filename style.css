@@ -344,8 +344,8 @@ header nav a{
 }
 #prev,
 #next{
-    width: 60px;
-    height: 60px;
+    width: 55px;
+    height: 55px;
     border-radius: 50%;
     font-family: monospace;
     border: 1px solid #aa28a4;
